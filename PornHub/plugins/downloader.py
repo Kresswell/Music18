@@ -207,7 +207,7 @@ async def get_video(c: Client, q: CallbackQuery):
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("• Donate •", url="https://t.me/IamOkayy"),
+                            InlineKeyboardButton("• Donate •", url="https://t.me/EscaliBud"),
                         ],
                     ],
                 ),
